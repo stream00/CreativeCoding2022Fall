@@ -83,5 +83,4 @@ if(loc.x>width){
 }
 
 }
-
 }
